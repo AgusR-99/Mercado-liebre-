@@ -1,0 +1,14 @@
+{
+  "name": "mercado-liebre",
+  "version": "1.0.0",
+  "description": "Pagina para proyecto de Digital House",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
